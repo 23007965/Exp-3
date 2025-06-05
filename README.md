@@ -3,7 +3,19 @@
 # AIM:
 To develop the Railway Reservation System using Star UML tool.
 # SRS (Procedure):
+Create the following diagrams in StarUML:
 
+Use Case Diagram
+
+Class Diagram
+
+Activity Diagram
+
+Package Diagram
+
+Communication Diagram
+
+Sequence Diagram
 # DIAGRAMS:
 ## USECASE DIAGRAM
 ![image](https://github.com/user-attachments/assets/477b2154-7baf-4dce-a0ce-c6a13a4d8741)
